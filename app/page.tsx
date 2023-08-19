@@ -50,7 +50,7 @@ export default function Home() {
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
       <div className="my-12 text-center animate-fade-in">
         <h2 className="text-sm text-zinc-500 ">
-          Hi, my name is Ziad, I'm building open source
+          Hi, my name is Ziad, I&apos;m building open source
           Project at{" "}
           <Link
             target="_blank"
@@ -59,7 +59,6 @@ export default function Home() {
           >
             ziad-gg
           </Link>
-
           <br />
           and working for{" "}
           <Link
